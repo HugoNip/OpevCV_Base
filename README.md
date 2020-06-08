@@ -21,7 +21,7 @@ make
 The following applications are generated.
 
 ```
-./sample1
-./sample2
-./sample3
+./build/sample1
+./build/sample2
+./build/sample3
 ```
